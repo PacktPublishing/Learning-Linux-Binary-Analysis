@@ -40,7 +40,7 @@ __asm__ __volatile__("int3");
 **Following is what you need for this book:**
 If you are a software engineer or reverse engineer and want to learn more about Linux binary analysis, this book will provide you with all you need to implement solutions for binary analysis in areas of security, forensics, and antivirus. This book is great for both security enthusiasts and system level engineers. Some experience with the C programming language and the Linux command line is assumed.
 
-A user will be able to experiment with much of the knowledge in this book (Chapter 1-9 with a variety of operating systems and hardware, although it is specifically focused for Linux 3.2 and higher running on X86 32bit or 64bit architectures.
+A user will be able to experiment with much of the knowledge in this book (Chapter 1-9) with a variety of operating systems and hardware, although it is specifically focused for Linux 3.2 and higher running on X86 32bit or 64bit architectures.
 
 ## Get to Know the Author
 Ryan "elfmaster" O'Neill is a computer security researcher and software 
